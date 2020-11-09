@@ -1,2 +1,3 @@
 zöld
 fehér
+piros
